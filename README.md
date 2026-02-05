@@ -69,4 +69,8 @@ Below are some screenshots from the application:
 
 
 ## 📂 Project Structure
-
+thrive-with-ms/
+├── mobile-app/ # Flutter mobile application
+├── backend/ # Node.js backend services
+├── admin-panel/ # Admin dashboard
+├── App_pics/ # Application screenshots
